@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 Instruction To Play The Game :-
     i   > Download The Git Repo
     ii  > Download The Python(Python.exe)
