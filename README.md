@@ -1,8 +1,8 @@
-Instruction To Play The Game :-
-    i   > Download The Git Repo
-    ii  > Download The Python(Python.exe)
-    iii > Install pygame
-    iv  > Then Just Press On snake.exe File To Start The Game
+    Instruction To Play The Game :-
+        i   > Download The Git Repo.
+        ii  > Download The Python(Python.exe).
+        iii > Install pygame.
+        iv  > Then Just Press On snake.exe File To Start The Game.
 
     Game Description :-
 
