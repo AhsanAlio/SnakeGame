@@ -1,5 +1,11 @@
 
-Instruction To Play The Game
+
+
+
+
+
+
+Instruction To Play The Game :-
     i   > Download The Git Repo
     ii  > Download The Python(Python.exe)
     iii > Install pygame
